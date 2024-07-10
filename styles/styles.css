@@ -279,7 +279,8 @@ margin-bottom: 16px;
 .icon-setting{
     display: flex;
     list-style-type: none;
-    justify-content: space-evenly;
+    justify-content: center;
     align-items: center;
     margin-top: 20px;
+    gap: 20px;
 }
